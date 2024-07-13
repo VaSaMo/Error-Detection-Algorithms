@@ -2,6 +2,8 @@
 
 This project was created for the Computing and Discrete Structures II class at ICESI University (Cali, Colombia). It was build using **Object-Oriented (OOP)** and **Functional** programing paradigms through **Scala**.
 
+*Project was first built in a Github Classroom repository*
+
 ## Table of Contents
 
 1. [Contributors](#contributors)
