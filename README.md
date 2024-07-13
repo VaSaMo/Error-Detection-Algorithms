@@ -1,33 +1,30 @@
-# Integrative Task 2 DISCRETAS II
-### COMMIT #10
-[**Link to the project statement**](https://docs.google.com/document/d/14JzjEBc079L0GOjIsGlpNOyqZuj_5wyM/edit)
+# Error Detection Algorithms
+
+This project was created for the Computing and Discrete Structures II class at ICESI University (Cali, Colombia). It was build using **Object-Oriented (OOP)** and **Functional** programing paradigms through **Scala**.
 
 ## Table of Contents
 
-1. [Team Members and Professor](#team-members-and-professor)
+1. [Contributors](#contributors)
 2. [Project description](#project-description)
-3. [Quality indicators](#Quality-indicators)
+3. [Quality indicators](#quality-indicators)
 
-##  Team Members and Professor
 
-### Group
+## Contributors
 
-| Name | Student Code |
-| ----------- | ----------- |
-| [Mariana Agudelo Salazar](https://github.com/lilmagusa17) | A00398722 |
-| [Gabriel Ernesto Escobar](https://github.com/Gab27x) | A00399291 |
-| [Vanessa Sánchez Morales ](https://github.com/VaSaMo) | A00397949 |
-| [Natalia Vargas Parra](https://github.com/NattVS) | A00398706 |
+| Name | 
+| ----------- |
+| [Mariana Agudelo Salazar](https://github.com/lilmagusa17) | 
+| [Gabriel Ernesto Escobar](https://github.com/Gab27x) | 
+| [Vanessa Sánchez Morales ](https://github.com/VaSaMo) |
+| [Natalia Vargas Parra](https://github.com/NattVS) | 
 
-### Professor
-
-Anibal Sosa and Angela Villota
-- Professor of the Science and Technology Department at ICESI University.
 
 ## Project description 
+
 On this proyect it can be found the implementation of 2 error detection codes, to be more specific  CheckSum and Cyclic Redundancy Check (CRC).
 
 ## Quality indicators
+
 1. Error density = Total failures / Total tests.
 2. Reliability = 1 - Error density.
 3. Completeness = Test cases / Total functionalities.
